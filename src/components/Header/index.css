@@ -1,0 +1,38 @@
+.nav-container {
+  padding: 30px;
+  margin-bottom: 80px;
+  width: 100%;
+}
+.nav-items-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.img-wave-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.wave-img {
+  width: 32px;
+  height: 32px;
+}
+.wave-heading {
+  color: #12022f;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: 'roboto';
+  margin-left: 10px;
+}
+.link-lists {
+  display: flex;
+  list-style-type: none;
+}
+.list-link {
+  color: #12022f;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: 'roboto';
+  margin-left: 10px;
+  text-decoration: none;
+}
